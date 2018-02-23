@@ -137,6 +137,7 @@ describe "#display_board in 'lib/display_board.rb" do
     end
 
     it 'prints an entire board full of Xs' do
+      board = ["X", ]
       # Should you want to write your own test for this situation,
       # read the following code and comments.
 
